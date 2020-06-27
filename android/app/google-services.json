@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "933250217161",
+    "firebase_url": "https://fialho-27253.firebaseio.com",
+    "project_id": "fialho-27253",
+    "storage_bucket": "fialho-27253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933250217161:android:45227722f6da57ea980918",
+        "android_client_info": {
+          "package_name": "com.raas.raasch.fcollect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933250217161-mbsdti944033gbu79dogmqnpripf1bnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raas.raasch.fcollect",
+            "certificate_hash": "824df3b59e8c5a68d5e47b1ad5349a98749f0ae1"
+          }
+        },
+        {
+          "client_id": "933250217161-vcnult64bd0qtd3fhsdc1hbq72gdgguh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALv9yYUrMAMM6P4bJB8xeEjlPknThwG6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933250217161-vcnult64bd0qtd3fhsdc1hbq72gdgguh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933250217161:android:26dbbbf75f3583e5980918",
+        "android_client_info": {
+          "package_name": "com.raasch.collect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933250217161-52qkmlf0d6g19knsbc710o2k1jminf2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raasch.collect",
+            "certificate_hash": "eca94b68fab5ac6e1b99bfce8ae6013c60dc3bb8"
+          }
+        },
+        {
+          "client_id": "933250217161-a2qeprdbtgiegvh1v4nvfc2ngaotm05a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raasch.collect",
+            "certificate_hash": "824df3b59e8c5a68d5e47b1ad5349a98749f0ae1"
+          }
+        },
+        {
+          "client_id": "933250217161-vcnult64bd0qtd3fhsdc1hbq72gdgguh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALv9yYUrMAMM6P4bJB8xeEjlPknThwG6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933250217161-vcnult64bd0qtd3fhsdc1hbq72gdgguh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933250217161:android:a170ca5c3cf20ae2980918",
+        "android_client_info": {
+          "package_name": "monteiro.com.hermesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933250217161-pvcj507v47j5uin82okhc6snhk0vvh4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "monteiro.com.hermesproject",
+            "certificate_hash": "e41e33108a62718ed2fcd402f268c8fcb113e766"
+          }
+        },
+        {
+          "client_id": "933250217161-vcnult64bd0qtd3fhsdc1hbq72gdgguh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALv9yYUrMAMM6P4bJB8xeEjlPknThwG6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933250217161-vcnult64bd0qtd3fhsdc1hbq72gdgguh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
